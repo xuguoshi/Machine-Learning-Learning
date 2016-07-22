@@ -1,0 +1,29 @@
+导数 Derivative
+梯度
+牛顿迭代
+梯度迭代
+监督学习 Supervised Learning
+无监督学习 Unsupervised Learning
+强化学习 Reinforcement Learning
+推荐系统 Recommender System
+回归 Regression
+分类 Classification
+聚类 Cluster
+支持向量机 Support Vector Machine (SVM)
+标签 Label
+鸡尾酒会问题 Cocktail Party Problem
+线性回归 Linear Regression
+逻辑回归 Logistic Regression
+正则化 Regularization
+代价函数 Cost Function
+梯度下降 Gradient Descent
+特征缩放 Feature Scaling
+均值归一化 Mean Normalization
+收敛 convergence
+正规方程 Normal Equation
+欠拟合 underfitting
+过拟合 overfitting
+偏差 bias
+方差 variance
+
+
